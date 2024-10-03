@@ -8,9 +8,9 @@ class Dog:
         self.food = food
 
 # Farhan is good mao
-dog1 = Dog("Rex", "German Shepherd", "Large", "Loyal", "Dry Kibble")
-dog2 = Dog("Buddy", "Labrador Retriever", "Large", "Friendly", "Wet Food")
-dog3 = Dog("Bella", "Chihuahua", "Small", "Alert", "Soft Food")
+dog1 = Dog("Papu", "German Shepherd", "Large", "Loyal", "Dry Kibble")
+dog2 = Dog("Doge", "Labrador Retriever", "Large", "Friendly", "Wet Food")
+dog3 = Dog("Woo", "Chihuahua", "Small", "Alert", "Soft Food")
 
 # Aditya is Suiiii
 for dog in (dog1, dog2, dog3):
