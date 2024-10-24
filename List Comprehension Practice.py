@@ -22,4 +22,3 @@ newFruits.append(fruits[2].capitalize())
 
 print(newFruits)
         
-
